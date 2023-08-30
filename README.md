@@ -25,6 +25,9 @@ To run this project, you'll need to have XAMPP installed to serve the PHP files 
 - A web browser of your choice (e.g., Google Chrome, Mozilla Firefox).
 
 **1. Clone the Repository:**
+```
+git clone https://github.com/kashiiitech/FastHostelReservation
+```
 
 **2. Start XAMPP:**
   - Open XAMPP and start the Apache and MySQL services.

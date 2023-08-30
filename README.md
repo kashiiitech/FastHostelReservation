@@ -43,6 +43,13 @@ git clone https://github.com/kashiiitech/FastHostelReservation
 **5. Accessing the Website:**
   - Open your web browser and go to http://localhost/your-repo-folder.
 
+---
+**NOTE**
+
+the above steps are a general guide. Be sure to replace `your-username` and `your-repo` with your actual GitHub username and repository name. Additionally, adjust folder paths based on your system configuration if needed.
+
+---
+
 ## Features
 **1. User Management**
   - Effortlessly add and manage students.

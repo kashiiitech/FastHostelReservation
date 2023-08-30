@@ -38,7 +38,7 @@ git clone https://github.com/kashiiitech/FastHostelReservation
   - Import the provided SQL file to set up the required tables and data.
 
 **4. File Placement:**
-  - Move the cloned repository folder to the htdocs directory in your XAMPP installation directory (e.g., C:\xampp\htdocs).
+  - Move the cloned repository folder to the `htdocs` directory in your XAMPP installation directory (e.g., C:\xampp\htdocs).
 
 **5. Accessing the Website:**
   - Open your web browser and go to http://localhost/your-repo-folder.

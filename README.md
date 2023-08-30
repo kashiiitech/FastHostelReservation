@@ -85,9 +85,9 @@ Video link:: https://youtu.be/c5ecy2faNUc
 If you have any questions, suggestions, or issues, feel free to reach out to us. We value your feedback and are here to help.
 
 - Project Maintainer: **Kashif Ali**
-- Email: kashiiitech@gmail.com(kashiiitech@gmail.com)
+- Email: kashiiitech@gmail.com
 ---
 
-You can also open an issue in this repository if you encounter any problems or want to request a new feature.
+**You can also open an issue in this repository if you encounter any problems or want to request a new feature.**
 
 ---

@@ -15,5 +15,10 @@ This website, built with HTML, CSS, PHP, and MySQL, simplifies hostel management
 ![ProjectER](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/design-db.png)
 ![ProjectDemoGif](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/website-demogif.gif)
 
+## Features
+1. User Management
+  Effortlessly add and manage students.
+  Students access personal info with passwords.
+
 ## Demo:
 Video link:: https://youtu.be/c5ecy2faNUc

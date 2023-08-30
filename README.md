@@ -22,14 +22,19 @@ This website, built with HTML, CSS, PHP, and MySQL, simplifies hostel management
     
 **2. Student Dashboard:**
   - View personal information upon login.
+
 **3. Complaint Lodging:**
   - Lodge complaints through the platform.
+
 **4. Hostel Category Exploration:**
   - Explore available hostel categories.
+
 **5. Efficient Communication:**
   - Streamlined admin-student communication.
+
 **6. User-Friendly Interface:**
   - Easy navigation for all users.
+
 **7. Database Integration:**
   - Secure storage of student data and complaints.
 

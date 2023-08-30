@@ -13,7 +13,7 @@ This website, built with HTML, CSS, PHP, and MySQL, simplifies hostel management
 
 ## Screenshots/GIFS
 ![ProjectER](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/design-db.png)
-![ProjectDemoGif](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/website-demo-git.mp4)
+![ProjectDemoGif](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/website-demogif.gif)
 
 ## Demo:
 Video link:: https://youtu.be/c5ecy2faNUc

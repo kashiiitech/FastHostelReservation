@@ -11,5 +11,6 @@ This website, built with HTML, CSS, PHP, and MySQL, simplifies hostel management
 4. Commit and push
 5. Wait for pull request to be merged
 
-6. ## Screenshots/GIFS
-7. ![ProjectER](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/design-db.png)
+## Screenshots/GIFS
+![ProjectER](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/design-db.png)
+![ProjectDemoGif](https://github.com/kashiiitech/FastHostelReservation/blob/main/img-Readme/website-demo-git.mp4)

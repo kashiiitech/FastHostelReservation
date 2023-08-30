@@ -17,8 +17,8 @@ This website, built with HTML, CSS, PHP, and MySQL, simplifies hostel management
 
 ## Features
 1. User Management
-  Effortlessly add and manage students.
-  Students access personal info with passwords.
+  - Effortlessly add and manage students.
+  - Students access personal info with passwords.
 
 ## Demo:
 Video link:: https://youtu.be/c5ecy2faNUc

@@ -82,7 +82,7 @@ Video link:: https://youtu.be/c5ecy2faNUc
 
 ## Contact Information
 
-If you have any questions, suggestions, or issues, feel free to reach out to us. We value your feedback and are here to help.
+If you have any questions, suggestions, or issues, feel free to reach out to me. We value your feedback and are here to help.
 
 - Project Maintainer: **Kashif Ali**
 - Email: kashiiitech@gmail.com

@@ -74,8 +74,8 @@ the above steps are a general guide. Be sure to replace `your-username` and `you
   - Secure storage of student data and complaints.
 
 ## Contributors / Team Members
-- [Muzamil](example.com)  - Frontend Development, UI/UX Design
-- [Amanullah](example.com) - Documentation, Support
+- [Muzamil](https://www.linkedin.com/in/muzamil-alii-84352a234/)  - Frontend Development, UI/UX Design
+- [Amanullah](https://www.linkedin.com/in/aman-ullah-b0a211238/) - Documentation, Support
 
 ## Demo:
 Video link:: https://youtu.be/c5ecy2faNUc
